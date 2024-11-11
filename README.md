@@ -5,8 +5,6 @@
  
 
 
-<p>🟢I'm currently learning Typescript, Angular, Vue and Selenium.</p>
-
 <p>📲If you want to contact... </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/dani-jeronimo-sanchez/"><img src="https://img.shields.io/badge/-Dani%20Sánchez%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
